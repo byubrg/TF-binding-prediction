@@ -28,4 +28,4 @@ The idea here is that genes that share similar expression patterns are related i
 From here, we will want to see how we can integrate the other data we have access to (DNase-seq, etc.), as well as what we could do to generate “tissue specific results”
 
 One idea would be to use the genome wide results from the pipeline above as our general standard, and then run a similar pipeline on tissue specific data, and identify motifs that are unique to certain tissue types.
-This will be quite computationally intensive.  Get ready marylouuuuuuu
+
